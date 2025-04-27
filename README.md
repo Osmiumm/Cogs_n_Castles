@@ -2,7 +2,7 @@
 ### Modpack Update Distro
 Repository of Minecraft Modpack updates for the Cogs Updater.
 
-### Implementations
+### Updater Implementations
 - [x] What's New/Patch Notes
 - [x] Notifications for new updates
 - [x] Game Directory Autocomplete
