@@ -9,3 +9,4 @@ Repository of Minecraft Modpack updates for the Cogs Updater.
 - [x] External Settings File
 - [ ] MacOS & Linux Support
 - [ ] Automatic Installer Updates
+- [ ] Game Directory Backups
